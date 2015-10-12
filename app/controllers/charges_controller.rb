@@ -7,9 +7,6 @@ class ChargesController < ApplicationController
   # Params
   # - token(string)
   # - amount(float)
-  # - number(integer)
-  # - expiration(string)
-  # - cvv(number)
   # Result
   # - success(boolean)
   # - transaction_id(integer)
